@@ -1,8 +1,23 @@
 # based
 
+## Artikkelit
+
+Luin näitä artikkeleita nopealla silmäyksellä työpaikalla samalla lounastaessa tunti ennen deadlinea, joten nämä ranskalaisetviivat on melko nopealla valinnalla lisätty tehtävään. Samalla huomasin, että olisi ensin kannattanut paneutua lukemaan artikkelit, ennen kuin kävin tehtävien kimppuun. 
+
+- Aloittelija ystävällinen lähestymistapa Apachen pariin. 
+- Ohjeistukset httpd komentoon ja ohjeistukset linkkien kautta tarvittaviin lisätietoihin.
+- Antaa vihjeet lopussa mitä lähteä tutkimaan seuraavaksi.
+- Artikkeli pitää sisällään kaiken ohjeistuksen DNS palvelimista virheilmoituksiin. Selkeät ohjeet ja selitykset. '
+https://httpd.apache.org/docs/2.4/getting-started.html 
+
+- Kuinka käyttää VirtuaaliHostia
+- Eroavaisuudet IP ja nimipohjaisten VirtuaaliHostien välillä
+- Nimipohjaisen Virtuaalihostin käyttö
+https://httpd.apache.org/docs/current/vhosts/name-based.html
+
 ## Apache etusivu 
 
-En tiedä menikö minulta aivan ohi kuinka näitä tehdään, mutta en löytänyt oikein vastauksia siihen. Tein sitten omilla osaamisillani muutoksia sivuihin, tämä tapa tuskin on se mitä tehtävässä on haettu. Toivottavasti palautettuani osaan ottaa opikseni muiden töistä ja opetella lukemalla heidän raportteja ja harjoitella sillä tavalla tekoa!
+En tiedä menikö minulta aivan ohi kuinka näitä tehdään, mutta en löytänyt oikein vastauksia siihen. Tein sitten omilla osaamisillani muutoksia sivuihin, tämä tapa tuskin on se mitä tehtävässä on haettu. Toivottavasti palautettuani osaan ottaa opikseni muiden töistä ja opetella lukemalla heidän raportteja ja harjoitella sillä tavalla tekoa! Palautus tulee kuitenkin tällaisenaan. 
 
 Tein kuitenkin seuraavalla tavalla, kuten taisi olla viimekin tehtävässä: 
 
@@ -28,6 +43,10 @@ Joten, otin seuraavan kuvan seuraavilla komennolla:
 ![Vitusti virheitä](https://user-images.githubusercontent.com/100162043/216839699-1ae96ecc-d9c8-4280-b148-d10c6305d776.jpg)
 
 Nopealla googlettamisella vaikutti siltä, että kaikki olisi ok.
+
+## Lopetus
+
+Kyseisen tehtävän tekemisessä meni yllättävän paljon aikaa siihen nähden, kuinka paljon sain tehtyä ns. vääriä asioita. Nyt 20 minuuttia ennen deadlinea palautellaan väärällä tavalla tehty tehtävä ja otetaan opiksi muiden raporttien pohjalta kuinka tämä olisi kuulunut tehdä. Toivottavasti saan oppia harjoittelemalla raporttien avulla. Kuitenkin palautus on tehty ja otetaan vastaan se tulos mikä kuuluukin ansaita. 
 
 
 
