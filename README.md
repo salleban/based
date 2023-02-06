@@ -4,15 +4,19 @@
 
 Luin näitä artikkeleita nopealla silmäyksellä työpaikalla samalla lounastaessa tunti ennen deadlinea, joten nämä ranskalaisetviivat on melko nopealla valinnalla lisätty tehtävään. Samalla huomasin, että olisi ensin kannattanut paneutua lukemaan artikkelit, ennen kuin kävin tehtävien kimppuun. 
 
+Artikkeli #1
 - Aloittelija ystävällinen lähestymistapa Apachen pariin. 
 - Ohjeistukset httpd komentoon ja ohjeistukset linkkien kautta tarvittaviin lisätietoihin.
 - Antaa vihjeet lopussa mitä lähteä tutkimaan seuraavaksi.
-- Artikkeli pitää sisällään kaiken ohjeistuksen DNS palvelimista virheilmoituksiin. Selkeät ohjeet ja selitykset. '
+- Artikkeli pitää sisällään kaiken ohjeistuksen DNS palvelimista virheilmoituksiin. Selkeät ohjeet ja selitykset. 
+
 https://httpd.apache.org/docs/2.4/getting-started.html 
 
+Artikkeli #2
 - Kuinka käyttää VirtuaaliHostia
 - Eroavaisuudet IP ja nimipohjaisten VirtuaaliHostien välillä
 - Nimipohjaisen Virtuaalihostin käyttö
+ 
 https://httpd.apache.org/docs/current/vhosts/name-based.html
 
 ## Apache etusivu 
